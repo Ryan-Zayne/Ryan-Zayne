@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my web development Skills<br>👯 I’m looking to collaborate on exciting web development projects<br>🌱 I’m currently building awesome tools to provide quality of life DX 👨‍💻<br>💬 Ask me about anything about tech-related stuff and I'll gladly engage 😉 <br><br><br><br><br><br>
+🔭 I’m currently working on my web development Skills<br>👯 I’m looking to collaborate on exciting web development projects<br>🌱 I’m currently building awesome tools to provide superb DX 👨‍💻<br>💬 Ask me about anything about tech-related stuff and I'll gladly engage 😉 <br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
