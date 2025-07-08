@@ -12,7 +12,7 @@
 ### Technical Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript, Markdown, NodeJs
 - **Frameworks/Libraries**: React, NextJs, Zustand, React Query, Tailwind CSS, Chakra UI, Vue, NuxtJs, Astro, ExpressJS
-- **Tools**: Git, GitHub, Jira, Slack, Notion, Trello, VsCode, Storybook, Firebase, Supabase, Vercel, Netlify, Postman, Eslint
+- **Tools**: Git, GitHub, Jira, Slack, Notion, Trello, VsCode, Storybook, Firebase, Supabase, Vercel, Netlify, Postman, Eslint, etc
 - **Design**: Figma
 
 # 📊 GitHub Stats:
